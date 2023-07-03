@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzatalha77&label=Profile%20views&color=0e75b6&style=flat" alt="hamzatalha77" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzatalha77" alt="hamzatalha77" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/hamzatalha_web7" target="blank"><img src="https://img.shields.io/twitter/follow/hamzatalha_web7?logo=twitter&style=for-the-badge" alt="hamzatalha_web7" /></a> </p>
 
 - 🔭 I’m currently working on [React project with Scoket.io](https://github.com/hamzatalha77/React-Socket-io-learning)
