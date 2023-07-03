@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Hamza Talha</h1>
 <h3 align="center"> i'm a software engineer and a student in Alx</h3>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/3odR.gif">
+<img align="right" alt="coding" width="400" src="https://s12.gifyu.com/images/SQGMm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzatalha77&label=Profile%20views&color=0e75b6&style=flat" alt="hamzatalha77" /> </p>
 
