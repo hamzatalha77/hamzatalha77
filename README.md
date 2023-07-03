@@ -1,7 +1,7 @@
 [![MasterHead]([https://i.gifer.com/3odR.gif](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif))]
 <h1 align="center">Hi 👋, I'm Hamza Talha</h1>
 <h3 align="center">i'm a software engineer and a student in Alx</h3>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/3odR.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzatalha77&label=Profile%20views&color=0e75b6&style=flat" alt="hamzatalha77" /> </p>
 
