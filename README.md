@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Talha</h1>
 <h3 align="center">i'm a software engineer and a student in Alx</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/3odR.gif">
-
+<iframe src="https://gifer.com/embed/3odR" width=480 height=366.829 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzatalha77&label=Profile%20views&color=0e75b6&style=flat" alt="hamzatalha77" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hamzatalha_web7" target="blank"><img src="https://img.shields.io/twitter/follow/hamzatalha_web7?logo=twitter&style=for-the-badge" alt="hamzatalha_web7" /></a> </p>
