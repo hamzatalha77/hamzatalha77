@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=ecf05e470eajxwd3eshfhzy6fsij8hl02egd6lrqnwyw8pdb&ep=v1_gifs_search&rid=giphy.gif&ct=g)]
+[![MasterHead](https://i.gifer.com/3odR.gif)]
 <h1 align="center">Hi 👋, I'm Hamza Talha</h1>
 <h3 align="center">i'm a software engineer and a student in Alx</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/3odR.gif">
