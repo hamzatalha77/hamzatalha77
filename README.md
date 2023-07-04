@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@hamza-talha-the-scripter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@hamza-talha-the-scripter" height="30" width="40" /></a>
+<a href="https://codepen.io/Hamza-Talha-the-scripter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/Hamza-Talha-the-scripter" height="30" width="40" /></a>
 <a href="https://twitter.com/hamzatalha_web7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamzatalha_web7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hamza-talha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-talha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17366662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17366662" height="30" width="40" /></a>
