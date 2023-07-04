@@ -33,7 +33,7 @@
 <a href="https://instagram.com/hamzatalha77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamzatalha77" height="30" width="40" /></a>
 <a href="https://medium.com/@hamzaios74s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hamzaios74s" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hamza talha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hamza talha" height="30" width="40" /></a>
-<a href="https://discord.gg/289888444581150732" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="289888444581150732" height="30" width="40" /></a>
+<a href="https://discord.gg/KeBmXHyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/KeBmXHyr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
